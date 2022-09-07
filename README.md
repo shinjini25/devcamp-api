@@ -3,9 +3,9 @@
 A RESTful Backend API to manage bootcamps, courses, user authentication & authorization. 
 
 ## Tech stack used:
-NodeJS
-ExpressJS
-MongoDB, Mongoose
+- NodeJS
+- ExpressJS
+- MongoDB, Mongoose
 
 ## Top features:
 - converts user-given Bootcamp address to store it as a GeoJSON object in MongoDB using geocoding
